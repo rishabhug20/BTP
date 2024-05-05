@@ -2,7 +2,7 @@
 # Real Estate Price Estimation 
 
 Live Link 
-[Click Here](https://realestate-price-estimator.onrender.com/)
+[Click Here](https://realestateprice-predictor.onrender.com/)
 A brief description of what this project does and who it's for
 
 This project is a web application for predicting house prices based on various features. Users can input details such as area, number of bedrooms, and amenities, and the application will provide an estimated house price within India.
